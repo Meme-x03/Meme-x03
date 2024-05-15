@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Meme-x03
 - 👀 I’m interested in Computer Science and Software Developer
 - 🌱 I’m currently learning Python, C and Javascript
-- 💞️ I’m looking to collaborate on everyone
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in a tournament of chess but i didn't qualify lol.
